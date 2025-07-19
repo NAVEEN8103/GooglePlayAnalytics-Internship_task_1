@@ -129,7 +129,17 @@ if is_time_between_1pm_2pm_ist():
     # Adjust layout to prevent overlap
     plt.tight_layout()
 
-    # Show plot
-    plt.show()
+    # ✅ Save the figure correctly to the right folder
+    plt.savefig('web_dashboard/assets/dual_axis_chart.png')
+
+    # ✅ Close the plot to avoid rendering conflicts
+    plt.close()
+
+    print("✅ Chart saved as web_dashboard/assets/dual_axis_chart.png")
+
 else:
     print("Chart is only available between 1 PM and 2 PM IST.")
+
+
+
+
