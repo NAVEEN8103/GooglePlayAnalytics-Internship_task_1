@@ -121,6 +121,6 @@ pip install -r requirements.txt
 
 ## 📬 Contact
 
-* 📧 Email: [naveen.tiwari@example.com](mailto:naveen.tiwari@example.com) *(Replace with your actual email if needed)*
-* 💼 GitHub: [github.com/yourusername](https://github.com/yourusername) *(Update if public repo)*
+* 📧 Email: [naveentiwari9425@gmail.com]
+* 💼 GitHub: https://github.com/NAVEEN8103/GooglePlayAnalytics-Internship_task_1
 
