@@ -7,7 +7,7 @@ This project was developed as part of an internship with **NullClass**, focused 
 ## 🌐 Live Project URL
 
 🔗 **Hosted on Netlify:**  
-[👉 View Dashboard Live](https://your-netlify-link.netlify.app)  
+[👉 View Dashboard Live](https://nullclassesinternshiptask1.netlify.app/)  
 *(Replace the above URL with your actual Netlify deployment link)*
 
 ---
@@ -109,15 +109,6 @@ Install all dependencies using:
 pip install -r requirements.txt
 ```
 
----
-
-## 🚀 Deployment Instructions (Netlify)
-
-1. Go to [Netlify](https://netlify.com/)
-2. Drag and drop the `web_dashboard` folder into Netlify drop zone
-3. Publish and share the link
-
----
 
 ## 👨‍💻 About the Intern
 
