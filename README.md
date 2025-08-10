@@ -1,14 +1,3 @@
-Here's your updated **`README.md`** file with:
-
-* 📸 **Screenshots** section
-* 🌐 **Netlify live link**
-* Better organized layout
-
----
-
-### ✅ Final `README.md`
-
-```markdown
 # 📊 Google Play Store Analytics Internship Dashboard
 
 This project was developed as part of an internship with **NullClass**, focused on analyzing the Google Play Store dataset using Python and visualizing the results in a custom HTML/CSS/JavaScript dashboard.
@@ -144,17 +133,3 @@ pip install -r requirements.txt
 * 📧 Email: [naveen.tiwari@example.com](mailto:naveen.tiwari@example.com) *(Replace with your actual email if needed)*
 * 💼 GitHub: [github.com/yourusername](https://github.com/yourusername) *(Update if public repo)*
 
----
-
-> 📌 Note: This project is submitted for educational and internship evaluation purposes. Redistribution without permission is not allowed.
-
-```
-
----
-
-Let me know:
-- Your **actual Netlify URL**
-- If you'd like to include **GIFs**, **video demo**, or **responsive design badge**
-
-I’ll update it again for you.
-```
